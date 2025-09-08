@@ -20,9 +20,8 @@ A **Flutter-based interactive tree builder** app that allows users to create, ed
 
 ## **Demo Video**
 
-<video src="demo.webm" controls width="600">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/3f2bfb99-155d-4df2-80df-b51bab7e5663
+
 
 ---
 
@@ -34,6 +33,7 @@ A **Flutter-based interactive tree builder** app that allows users to create, ed
 - Android Studio or VS Code
 
 ### **(Main)Project Structure**
+```
 lib/
 ├─ main.dart
 ├─ ui/
@@ -45,6 +45,7 @@ lib/
 │     └─ action_buttons.dart
 ├─ models/graph_node.dart
 └─ state/graph_controller.dart
+```
 
 ### **Usage**
 1. Launch the app.
